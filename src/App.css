@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.tableHead{
+  font-weight: 800;
+  background-color: skyblue;
+  
+}
+
+button{
+  margin: 1rem;
+  border-radius: 0.25em;
+  font-weight: 700;
+}
+
+button:hover{
+  cursor: pointer;
+  
+}
+
+.delete:hover{
+  background-color: red;
+}
+
+td{
+  margin: 1rem auto;
+  border: 1px solid black;
+}
+
+table{
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+img{
+  border-radius: 3rem;
+}
+
